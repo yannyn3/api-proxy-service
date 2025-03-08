@@ -2,7 +2,7 @@
 
 解决CORS和API调用问题的简单代理服务。
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/你yannyn3/api-proxy-service)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yannyn3/api-proxy-service)
 
 ## 使用方法
 
