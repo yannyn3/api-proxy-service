@@ -1,0 +1,12 @@
+{
+  "name": "api-proxy-service",
+  "version": "1.0.0",
+  "description": "Simple API proxy for CORS issues",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests configured\""
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
